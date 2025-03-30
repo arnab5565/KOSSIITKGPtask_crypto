@@ -1,0 +1,1 @@
+# KOSSIITKGPtask_crypto
