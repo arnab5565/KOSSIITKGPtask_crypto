@@ -1,6 +1,6 @@
 #IIT KGP Opensource Society Task
 
-# Exploring Public-Private Key Encryption and Bitcoin Wallets
+ Exploring Public-Private Key Encryption and Bitcoin Wallets
 #Topics Covered in the Presentation:
 #1)Symmetric-key and Asymmetric-key Cryptography
 #2)Public Keys and Private Keys Generation
